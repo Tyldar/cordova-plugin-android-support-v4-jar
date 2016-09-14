@@ -6,6 +6,9 @@ revision 23.2.1, `1422188 bytes`
 
 This package contains the latest `android-support-v4.jar` file from Android SDK.
 
+- https://developer.android.com/topic/libraries/support-library/features.html#v4
+- https://developer.android.com/reference/android/support/v4/app/package-summary.html
+
 ## Install
 
 ```
