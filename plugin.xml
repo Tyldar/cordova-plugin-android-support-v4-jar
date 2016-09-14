@@ -6,7 +6,7 @@
 
   <name>Android Support v4</name>
   <license>MIT</license>
-  <keywords>candroid,support,library,v4,jar</keywords>
+  <keywords>cordova,android,support,library,v4,jar</keywords>
   <repo>https://github.com/pbakondy/cordova-plugin-android-support-v4-jar</repo>
   <issue>https://github.com/pbakondy/cordova-plugin-android-support-v4-jar/issues</issue>
 
