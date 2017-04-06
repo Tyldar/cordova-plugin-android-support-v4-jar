@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-android-support-v4-jar",
-  "version": "23.2.1",
+  "version": "25.3.1",
   "description": "Android Support v4",
   "cordova": {
     "id": "cordova-plugin-android-support-v4-jar",
